@@ -3,9 +3,11 @@
 
 ### Current Focus / Interests
 
-* 🚀 [Your main project or area - link to repo](https://github.com/aaronmeis/project)
-* 💼 [Your professional focus - link to repo](https://github.com/aaronmeis/project)  
-* 🛠️ [Technology/skill you're learning - link to repo](https://github.com/aaronmeis/project)
-* 📊 [Another area of interest - link to repo](https://github.com/aaronmeis/project)
+* 🚀 [Setting up MCP Server locally - link to repo](https://github.com/aaronmeis/learn-mcp-setup)
+* 🚀 [Forked and getting running locally to dive in more... - link to repo](https://github.com/aaronmeis/precision-medicine-mcp)
 
- 
+* 🚀 [IBM Quantum Developer Certification - Exploring Qiskit](https://github.com/Qiskit/qiskit)
+* 🚀 [PennyLane Quantum Developer Certificate - Photonic Focus](https://github.com/PennyLaneAI/pennylane)
+* 💼 [Quantum-AI for Precision Medicine and Materials Science](https://github.com/Qiskit/qiskit-machine-learning)
+* 🛠️ [Microsoft Azure Quantum Developer - Hybrid Workflows](https://github.com/microsoft/Quantum)
+* 📊 [Quantum Error Correction and Algorithms Learning](https://github.com/qutip/qutip)
