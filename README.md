@@ -1,5 +1,5 @@
 <!-- Optional: Add a visual header -->
-![Professional Header](./images/header-banner.jpeg)
+![Professional Header](./images/header-image.jpeg)
 
 ### Current Focus / Interests
 
