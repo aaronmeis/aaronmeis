@@ -11,3 +11,18 @@
 * 💼 [Quantum-AI for Precision Medicine and Materials Science](https://github.com/Qiskit/qiskit-machine-learning)
 * 🛠️ [Microsoft Azure Quantum Developer - Hybrid Workflows](https://github.com/microsoft/Quantum)
 * 📊 [Quantum Error Correction and Algorithms Learning](https://github.com/qutip/qutip)
+
+### 📫 Let's Connect
+
+Build, Learn, Teach
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaronmeis)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aaronmeis)
+
+---
+
+<div align="center">
+  
+*Exploring the intersection of Quantum Computing, AI, and Agile Product Development*
+
+</div>
