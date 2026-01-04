@@ -12,6 +12,19 @@
 * 🛠️ [Microsoft Azure Quantum Developer - Hybrid Workflows](https://github.com/microsoft/Quantum)
 * 📊 [Quantum Error Correction and Algorithms Learning](https://github.com/qutip/qutip)
 
+## 🏆 Certifications
+
+<div align="center">
+
+<img src="https://github.com/aaronmeis/aaronmeis/raw/main/images/cert-safe-apm.png" alt="SAFe 6 APM" width="80"/>
+<img src="https://github.com/aaronmeis/aaronmeis/raw/main/images/cert-safe-arch.png" alt="SAFe 6 ARCH" width="80"/>
+<img src="https://github.com/aaronmeis/aaronmeis/raw/main/images/cert-safe-sdp.png" alt="SAFe 6 SDP" width="80"/>
+<img src="https://github.com/aaronmeis/aaronmeis/raw/main/images/cert-aws-ai-practitioner.png" alt="AWS AI Practitioner" width="80"/>
+
+</div>
+
+---
+
 ### 📫 Let's Connect
 
 Build, Learn, Teach
